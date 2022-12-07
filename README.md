@@ -1,7 +1,7 @@
 
 <h1 align="center"> Playlist Extractor </h1>
 
-[![M3U generator for YouTube](https://github.com/GaneshElumalai/YouTube_to_m3u/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/GaneshElumalai/YouTube_to_m3u/actions/workflows/m3u_Generator.yml)
+[![M3U generator for YouTube](https://github.com/GaneshElumalai/YouTube_to_m3u/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/GaneshElumalai/Sneh-Playlist-Extractor/actions/workflows/m3u_Generator.yml)
 
 `https://raw.githubusercontent.com/GaneshElumalai/Sneh-Playlist-Extractor/main/playlist.m3u`
 
