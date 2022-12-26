@@ -1,27 +1,27 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
 #EXTINF:-1 group-title="Snxt-Tamil" tvg-logo="https://sund-images.sunnxt.com/14020/640x360_SunTVHD_14020_611b7b0f-f40a-4eea-979c-cf8c8026b8e6.jpg" tvg-id="", SunTV HD
-https://suntvlive.akamaized.net/hls/live/2093448/SunTVHD/master.m3u8?hdnea=st=1672055415~exp=1672055715~acl=!*/2093448/SunTVHD/*~hmac=96e2135abab19bddc783887d58bea8bff1bcac4cd586927c570bf54986a76c58&PlayBackId=2422104430&cid=14020&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
+https://suntvlive.akamaized.net/hls/live/2093448/SunTVHD/master.m3u8?hdnea=st=1672055776~exp=1672056076~acl=!*/2093448/SunTVHD/*~hmac=d17196e26c8267321add87b1784aad20092e5728eb904dac9ee518b28522a568&PlayBackId=2422104430&cid=14020&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
 
 https://suntvlive.akamaized.net/hls/live/2093448/SunTVHD/master.m3u8
 
 #EXTINF:-1 group-title="Snxt-Tamil" tvg-logo="https://sund-images.sunnxt.com/26566/640x360_KTVHD_26566_7b9f707c-8b92-4986-8933-df6615f5d808.jpg" tvg-id="", KTV HD
-https://suntvlive.akamaized.net/hls/live/2093450-b/KTVHD/master.m3u8?hdnea=st=1672055417~exp=1672055717~acl=!*/2093450-b/KTVHD/*~hmac=fb63d9b91949bf4aa9e0f3d7ea0e36899c6d4e840452b1233797ef89c65e2454&PlayBackId=2422104430&cid=26566&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
+https://suntvlive.akamaized.net/hls/live/2093450-b/KTVHD/master.m3u8?hdnea=st=1672055778~exp=1672056078~acl=!*/2093450-b/KTVHD/*~hmac=30982f70fbc375512a1c6aecb98c5b9f3fdf49c030aaef0548d294b713bf58b1&PlayBackId=2422104430&cid=26566&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
 
 https://suntvlive.akamaized.net/hls/live/2093450-b/KTVHD/master.m3u8
 
 #EXTINF:-1 group-title="Snxt-Tamil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6VSuRUOsPeu-iL1GXC388qFw-lvCDnuAquggBG1W1Ew&s" tvg-id="", SunLife
-https://suntvlive.akamaized.net/hls/live/2093454/SunLife/master.m3u8?hdnea=st=1672055419~exp=1672055719~acl=!*/2093454/SunLife/*~hmac=953ba5fb7c6dc97045df3fc283f0da8980685007ac86e57c9d30b806e64c7bdf&PlayBackId=2422104430&cid=26569&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
+https://suntvlive.akamaized.net/hls/live/2093454/SunLife/master.m3u8?hdnea=st=1672055780~exp=1672056080~acl=!*/2093454/SunLife/*~hmac=210674d47066c5b4aac44b26077e057e5af19154a869bb64fb464e8c623fa33f&PlayBackId=2422104430&cid=26569&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
 
 https://suntvlive.akamaized.net/hls/live/2093454/SunLife/master.m3u8
 
 #EXTINF:-1 group-title="Snxt-Tamil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03C5hWx1O6wrPsIE03ITeEU-jITjWcosnurOh1y19&s" tvg-id="", Adithya
-https://suntvlive.akamaized.net/hls/live/2093453/AdithyaTV/master.m3u8?hdnea=st=1672055422~exp=1672055722~acl=!*/2093453/AdithyaTV/*~hmac=e5058c8eead15074f0a88b51fbff1d044c08f80c537da0d1cf6499486134fb38&PlayBackId=2422104430&cid=9023&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
+https://suntvlive.akamaized.net/hls/live/2093453/AdithyaTV/master.m3u8?hdnea=st=1672055782~exp=1672056082~acl=!*/2093453/AdithyaTV/*~hmac=d3b0575aea6c3fe1f22d29c176e97b943018f55a875b647e43a8e63687e4f742&PlayBackId=2422104430&cid=9023&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
 
 https://suntvlive.akamaized.net/hls/live/2093453/AdithyaTV/master.m3u8
 
 #EXTINF:-1 group-title="Snxt-Tamil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2geVrKO3UlY8XaESa1cvUS7bYpBrrJGMywVaWgFEX&s" tvg-id="", SunMusic HD
-https://suntvlive.akamaized.net/hls/live/2093452/SunMusicHD/master.m3u8?hdnea=st=1672055424~exp=1672055724~acl=!*/2093452/SunMusicHD/*~hmac=e747d5f13b8da983204bee660b4f6ea2dec28aa8915b44de799ab1391d79f3f2&PlayBackId=2422104430&cid=9013&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
+https://suntvlive.akamaized.net/hls/live/2093452/SunMusicHD/master.m3u8?hdnea=st=1672055784~exp=1672056084~acl=!*/2093452/SunMusicHD/*~hmac=fb08b3ce807cb69f00f54105c3e9cc21bff9cc524e34522b1e44330ec776780d&PlayBackId=2422104430&cid=9013&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
 
 https://suntvlive.akamaized.net/hls/live/2093452/SunMusicHD/master.m3u8
 
